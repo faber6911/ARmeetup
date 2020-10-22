@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="http://datascience.disco.unimib.it/it/"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/DSunimib.png" width = "100%"></a>
+  <a href="http://datascience.disco.unimib.it/it/"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/DSunimib.png" width = "100%"></a>
 </p>
 
 <p align="center">
-  <a><img src = "https://github.com/DBertazioli/ARmeetup/blob/master/report/images/logo_readme.png" width = "50%""></a>
+  <a><img src = "https://github.com/DBertazioli/ARmeetup/raw/master/report/images/logo_readme.png" width = "50%""></a>
 </p>
-<h4 align = "center">Analyze Meetup Social Network in ArangoDB</h4> 
-    <h6 align = "center">A Data Management Project</h6> 
+<h4> align = "center">Analyze Meetup Social Network in ArangoDB</h4> 
+    <h6> align = "center">A Data Management Project</h6> 
 
 
 <p align="center">
@@ -46,8 +46,8 @@ La presentazione associata è disponibile <a href="https://github.com/faber6911/
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://github.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://github.com/malborroni/Machine_Learning_Project/raw/master/img/174857.svg" width = "3%"></a>
+  <a href = "https://github.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/GitHub.png" width = "3%"></a>
 </p>
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
@@ -57,8 +57,8 @@ La presentazione associata è disponibile <a href="https://github.com/faber6911/
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://github.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://github.com/malborroni/Machine_Learning_Project/raw/master/img/174857.svg" width = "3%"></a>
+  <a href = "https://github.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/GitHub.png" width = "3%"></a>
 </p>
 
 &#8860; &nbsp; **Massimiliano Perletti**
@@ -68,12 +68,12 @@ La presentazione associata è disponibile <a href="https://github.com/faber6911/
 <br>
 
 <p align = "center">
-  <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://github.com/maxi93/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://github.com/malborroni/Machine_Learning_Project/raw/master/img/174857.svg" width = "3%"></a>
+  <a href = "https://github.com/maxi93/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/GitHub.png" width = "3%"></a>
 </p>
 
 <p align = "right">
   <a href = "https://github.com/malborroni/">
-             <img src = "https://github.com/DBertazioli/ARmeetup/blob/master/report/images/credits_readme.png" width = "25%">
+             <img src = "https://github.com/DBertazioli/ARmeetup/raw/master/report/images/credits_readme.png" width = "25%">
              </a>
 </p>
