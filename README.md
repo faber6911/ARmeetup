@@ -33,7 +33,8 @@ Per riassumere gli aspetti più interessanti incontrati durante la nostra esplor
 
 <a name="report"></a>
 ## &#9741; &nbsp; Report
-Come conclusione del nostro progetto e della nostra esplorazione abbiamo redatto un piccolo [report](https://github.com/DBertazioli/ARmeetup/blob/master/report/report.pdf) per riassumere misure rilevate e metodologie adottate.
+Come conclusione del nostro progetto e della nostra esplorazione abbiamo redatto un piccolo <a href="https://github.com/DBertazioli/ARmeetup/blob/master/report/report.pdf">report</a> per riassumere misure rilevate e metodologie adottate.
+La presentazione associata è disponibile <a href="https://github.com/faber6911/ARmeetup/blob/master/presentation/prese_meetup.pdf">qui</a>.
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
