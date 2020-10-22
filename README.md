@@ -47,6 +47,7 @@ Come conclusione del nostro progetto e della nostra esplorazione abbiamo redatto
 <p align = "center">
   <a href = "https://www.linkedin.com/in/dario-bertazioli-961ab4180/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
   <a href = "https://github.com/DBertazioli/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+</p>
 
 &#8860; &nbsp; **Fabrizio D'Intinosante**
 
@@ -57,6 +58,7 @@ Come conclusione del nostro progetto e della nostra esplorazione abbiamo redatto
 <p align = "center">
   <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
   <a href = "https://github.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
+</p>
 
 &#8860; &nbsp; **Massimiliano Perletti**
 
@@ -67,7 +69,8 @@ Come conclusione del nostro progetto e della nostra esplorazione abbiamo redatto
 <p align = "center">
   <a href = "https://www.linkedin.com/in/massimilianoperletti/"><img src="https://github.com/malborroni/Machine_Learning_Project/blob/master/img/174857.svg" width = "3%"></a>
   <a href = "https://github.com/maxi93/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GitHub.png" width = "3%"></a>
-  
+</p>
+
 <p align = "right">
   <a href = "https://github.com/malborroni/">
              <img src = "https://github.com/DBertazioli/ARmeetup/blob/master/report/images/credits_readme.png" width = "25%">
