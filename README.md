@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a><img src = "https://github.com/DBertazioli/ARmeetup/raw/master/report/images/logo_readme.png" width = "50%""></a>
+  <a><img src = "https://github.com/faber6911/ARmeetup/raw/master/report/images/logo_readme.png" width = "50%""></a>
 </p>
-<h4> align = "center">Analyze Meetup Social Network in ArangoDB</h4> 
-    <h6> align = "center">A Data Management Project</h6> 
+<!--<h4> align = "center">Analyze Meetup Social Network in ArangoDB</h4>-->
+    <!--<h6> align = "center">A Data Management Project</h6>--> 
 
 
 <p align="center">
