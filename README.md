@@ -58,7 +58,7 @@ La presentazione associata è disponibile <a href="https://github.com/faber6911/
 
 <p align = "center">
   <a href = "https://www.linkedin.com/in/fabrizio-d-intinosante-125042180/"><img src="https://github.com/malborroni/Machine_Learning_Project/raw/master/img/174857.svg" width = "3%"></a>
-  <a href = "https://github.com/faber6911/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/GitHub.png" width = "3%"></a>
+  <a href = "https://faber6911.github.io/"><img src="https://github.com/malborroni/Foundations_of_Computer-Science/raw/master/images/GitHub.png" width = "3%"></a>
 </p>
 
 &#8860; &nbsp; **Massimiliano Perletti**
